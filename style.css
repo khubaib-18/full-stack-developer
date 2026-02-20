@@ -1,0 +1,21 @@
+#topdiv {
+    background-color:blue;
+    height:50px;
+    width:600px;
+    margin:20px;
+}
+#middlediv{
+    background-color:green;
+    height:100px;
+    width:100px;
+    margin:20px;
+}
+#bottomdiv{
+    background-color:yellow;
+    height:100px;
+    width:100px;
+    margin:20px;
+}
+.group1{
+    background-color:darkcyan;
+}
